@@ -1,6 +1,6 @@
 {
   "name": "@knopkem/dicom-parser",
-  "version": "1.8.12",
+  "version": "1.8.13",
   "description": "Javascript parser for DICOM Part 10 data",
   "main": "dist/dicomParser.min.js",
   "module": "dist/dicomParser.min.js",
