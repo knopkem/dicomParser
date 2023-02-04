@@ -1,4 +1,4 @@
-declare module 'dicom-parser' {
+declare module '@knopkem/dicom-parser' {
  
   export type ByteArray = Uint8Array | Buffer;
 
